@@ -1,0 +1,10 @@
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\bin\Release\TCP_Private_Server.exe
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\bin\Release\TCP_Private_Server.pdb
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.Form_About.resources
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.Form_Main.resources
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.Properties.Resources.resources
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.csproj.GenerateResource.cache
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.csproj.CoreCompileInputs.cache
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.exe
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.pdb
+F:\20211\Mạng và các giao thức IOT\Chat LAN sử dụng socket C#\TCP_Private_Server\TCP_Private_Server\obj\Release\TCP_Private_Server.csproj.AssemblyReference.cache
