@@ -1,43 +1,39 @@
-Project_IOT là một tập hợp các ví dụ và ứng dụng mẫu về giao tiếp mạng TCP/IP giữa các thiết bị nhúng và máy tính, sử dụng ngôn ngữ lập trình C# và HTML. Dự án này nhằm mục đích minh họa cách thiết lập và quản lý kết nối TCP giữa client và server trong môi trường IoT.
+📁 Project Structure
+TCP_Private_Client/: A C#-based client application that connects to a TCP server and sends/receives data.
 
-📁 Cấu trúc thư mục
-TCP_Private_Client/: Ứng dụng client viết bằng C#, cho phép kết nối tới server TCP và gửi/nhận dữ liệu.
+TCP_Private_Server/: A C#-based server application that listens for incoming client connections and handles communication.
 
-TCP_Private_Server/: Ứng dụng server viết bằng C#, lắng nghe kết nối từ client và xử lý dữ liệu nhận được.
+🚀 Getting Started
+Requirements
+.NET Framework or .NET Core (depending on the project version)
 
-🚀 Hướng dẫn sử dụng
-Yêu cầu hệ thống
-.NET Framework hoặc .NET Core (tùy thuộc vào phiên bản sử dụng trong dự án).
+Visual Studio or any compatible C# IDE
 
-Visual Studio hoặc bất kỳ IDE nào hỗ trợ C#.
-
-Cách chạy ứng dụng
+How to Run
 Server:
 
-Mở thư mục TCP_Private_Server trong IDE.
+Open the TCP_Private_Server folder in your IDE.
 
-Biên dịch và chạy ứng dụng.
+Build and run the application.
 
-Server sẽ bắt đầu lắng nghe kết nối từ client.
+The server will start listening for incoming TCP connections.
 
 Client:
 
-Mở thư mục TCP_Private_Client trong IDE.
+Open the TCP_Private_Client folder in your IDE.
 
-Biên dịch và chạy ứng dụng.
+Build and run the application.
 
-Nhập địa chỉ IP và cổng của server để kết nối.
+Enter the server's IP address and port to establish a connection.
 
-Gửi dữ liệu tới server và nhận phản hồi.
+You can now send messages and receive responses from the server.
 
-🛠️ Công nghệ sử dụng
-Ngôn ngữ lập trình: C#, HTML
+🛠️ Technologies Used
+Programming Language: C#, HTML
 
-Giao thức mạng: TCP/IP
+Network Protocol: TCP/IP
 
-Môi trường phát triển: Visual Studio
+Development Environment: Visual Studio
 
-📄 Giấy phép
-Dự án này được phát hành dưới giấy phép MIT. Xem tệp LICENSE để biết thêm chi tiết.
-
-Nếu bạn cần thêm thông tin hoặc hỗ trợ về dự án, vui lòng liên hệ với tác giả.
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
